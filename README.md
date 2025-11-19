@@ -1,4 +1,4 @@
-# U.S. Tick Population Genomics Pipeline
+# U.S. Whole Genome Sequence Tick Population Genomics Pipeline
 
 **Comprehensive population genomics analysis of *Ixodes scapularis* across the United States**
 
@@ -11,6 +11,7 @@ This repository contains a comprehensive 17-step bioinformatics pipeline for ana
 <img width="2701" height="1990" alt="image0" src="https://github.com/user-attachments/assets/06612793-9f3e-4c73-b0ad-b011b7c5407e" />
 <img width="1907" height="335" alt="Screenshot 2025-11-13 144235" src="https://github.com/user-attachments/assets/b4905ade-aa87-405e-a28c-bbaed2b5d4e4" />
 <img width="957" height="764" alt="Screenshot 2025-10-30 100745" src="https://github.com/user-attachments/assets/4ff031a5-357d-4f97-b17d-33218361a5fa" />
+<img width="2190" height="1282" alt="download" src="https://github.com/user-attachments/assets/92e809c3-39d0-4be3-95cd-0d00551ff875" />
 
 
 ## Pipeline Workflow
