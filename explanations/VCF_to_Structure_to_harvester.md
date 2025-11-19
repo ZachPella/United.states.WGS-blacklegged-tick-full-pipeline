@@ -2,7 +2,9 @@
 
 A population genetics pipeline for converting VCF files to STRUCTURE format and performing population structure analysis on tick genomic data.
 
-<img width="1812" height="461" alt="Screenshot 2025-10-23 111117" src="https://github.com/user-attachments/assets/c6370f8c-060a-4a31-8766-92f2ff546279" />
+<img width="940" height="751" alt="Screenshot 2025-10-21 133739" src="https://github.com/user-attachments/assets/a08e0dcf-e8f7-4aa9-8b7b-27b8e867efde" />
+<img width="942" height="749" alt="Screenshot 2025-10-21 133708" src="https://github.com/user-attachments/assets/0f955edf-95c2-4b6e-a276-e000746b1537" />
+<img width="541" height="198" alt="Screenshot 2025-10-21 135020" src="https://github.com/user-attachments/assets/f6c0d604-39f4-4774-b4ce-5ee784436e60" />
 
 
 
