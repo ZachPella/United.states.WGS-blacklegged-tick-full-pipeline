@@ -1,4 +1,4 @@
-# U.S. Whole Genome Sequence Tick Population Genomics Pipeline
+# U.S. Whole-Genome Sequence Tick Population Genomics Pipeline
 
 **Comprehensive population genomics analysis of *Ixodes scapularis* across the United States**
 
