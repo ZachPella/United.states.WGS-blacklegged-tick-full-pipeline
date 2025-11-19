@@ -16,7 +16,7 @@ This repository contains a comprehensive 17-step bioinformatics pipeline for ana
 
 ## Pipeline Workflow
 
-### 🔵 Preprocessing (Steps 1-8)
+### 🔵 QC, Alignment, Preprocessing with Picard (Steps 1-8)
 1. **Concatenate Reads** - Combine multi-lane sequencing files
 2. **Fastp QC** - Quality control and adapter trimming  
 3. **FastQC** - Post-cleaning quality assessment
@@ -26,12 +26,12 @@ This repository contains a comprehensive 17-step bioinformatics pipeline for ana
 7. **Remove Duplicates** - PCR artifact removal and library complexity assessment
 8. **Summary Statistics** - Comprehensive quality control reporting
 
-### 🟢 Variant Calling (Steps 9-11)
+### 🟢 Variant Calling/GATK (Steps 9-11)
 9. **HaplotypeCaller** - Individual sample variant discovery with scatter-gather optimization
 10. **GenomicsDB** - Consolidate variant data for scalable joint calling
 11. **Joint Genotyping** - Population-scale variant calling across all US samples
 
-### 🟠 Filtering (Steps 12-15)
+### 🟠 Filtering/GATK (Steps 12-15)
 12. **Select SNPs** - Extract SNPs for population genetic analysis
 13. **Hard Filtering** - Apply GATK best practices quality filters
 14. **Select PASS** - Retain only high-confidence variants
