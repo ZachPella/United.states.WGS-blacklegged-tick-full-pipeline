@@ -5,6 +5,7 @@ A population genetics pipeline for converting VCF files to STRUCTURE format and 
 <img width="940" height="751" alt="Screenshot 2025-10-21 133739" src="https://github.com/user-attachments/assets/a08e0dcf-e8f7-4aa9-8b7b-27b8e867efde" />
 <img width="942" height="749" alt="Screenshot 2025-10-21 133708" src="https://github.com/user-attachments/assets/0f955edf-95c2-4b6e-a276-e000746b1537" />
 <img width="541" height="198" alt="Screenshot 2025-10-21 135020" src="https://github.com/user-attachments/assets/f6c0d604-39f4-4774-b4ce-5ee784436e60" />
+<img width="3000" height="2400" alt="Harvester_Summary_Plots_Final" src="https://github.com/user-attachments/assets/6e566e22-48cf-49d0-aa81-75c67cedaf12" />
 
 
 
