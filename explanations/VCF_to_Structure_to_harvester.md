@@ -1,5 +1,7 @@
 # VCF_to_STRUCTURE_to_HARVESTER
 
+***You cannot run STRUCUTRE or HARVESTER with over 60-65 wgs samples and a k above 5. This is just an example on our NE, IA, and KS data because STRUCUTRE will fail due to mem or time limit. Our cluster's time limit is 7 days, not even K=2 finished in 7 days.
+
 A population genetics pipeline for converting VCF files to STRUCTURE format and performing population structure analysis on tick genomic data.
 
 <img width="940" height="751" alt="Screenshot 2025-10-21 133739" src="https://github.com/user-attachments/assets/a08e0dcf-e8f7-4aa9-8b7b-27b8e867efde" />
