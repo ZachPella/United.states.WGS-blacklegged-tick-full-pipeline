@@ -816,8 +816,8 @@ This step transforms the analysis-ready BAM files into comprehensive variant dat
 
 ### Step 10: GenomicsDB Consolidation
 **Script**: `variant_02_genomicsdb.sh`  
-**Tools**: GATK4 v4.3 GenomicsDBImport  
-**Runtime**: 8 hours, 10 parallel jobs (one per genomic chunk), 2 CPUs each, 115GB memory  
+**Tools**: GATK4 v4.6 GenomicsDBImport  
+**Runtime**: 1 day, 10 parallel jobs (one per genomic chunk), 2 CPUs each, 115GB memory  
 
 #### Purpose and Context
 This step consolidates the scattered GVCF files from all 193 tick samples into an efficient GenomicsDB workspace that enables scalable joint genotyping. While Step 9 generated 1930 individual GVCF chunks (193 samples × 10 chunks each), this step organizes them into 10 GenomicsDB workspaces corresponding to the genomic intervals. This data structure transformation is essential for the efficient joint variant calling that follows.
@@ -918,7 +918,7 @@ This step represents a critical data transformation that enables population-scal
 ### Step 11: Joint Genotyping and VCF Assembly
 **Scripts**: `variant_03_genotype_gvcfs.sh` + `variant_03b_gather_vcfs.sh`  
 **Tools**: GATK4 v4.6 GenotypeGVCFs, GatherVcfs  
-**Runtime**: 1 day (Step 11a) + 1 second (Step 11b), distributed processing  
+**Runtime**: 3 days (Step 11a) + 1 second (Step 11b), 10 parallel jobs (one per genomic chunk), 2 CPUs each, 500GB memory 
 
 #### Purpose and Context
 This final variant calling step performs joint genotyping across all 193 tick samples simultaneously, leveraging information from the entire population to make more accurate variant calls. The process occurs in two phases: first, joint genotyping is performed on each genomic chunk using the GenomicsDB workspaces, then all chunks are assembled into a single comprehensive population VCF file. This approach dramatically improves variant calling accuracy compared to individual sample calling by using population-level information to distinguish true variants from sequencing artifacts.
