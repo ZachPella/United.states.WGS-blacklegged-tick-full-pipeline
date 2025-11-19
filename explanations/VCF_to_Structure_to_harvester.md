@@ -2,7 +2,11 @@
 
 A population genetics pipeline for converting VCF files to STRUCTURE format and performing population structure analysis on tick genomic data.
 
-[Admixture_K2_State_Final_Order.pdf](https://github.com/user-attachments/files/23634494/Admixture_K2_State_Final_Order.pdf)
+<img width="1907" height="335" alt="Screenshot 2025-11-13 144235" src="https://github.com/user-attachments/assets/74369950-a8cb-44d8-a7ca-7460aee4131e" />
+<img width="1877" height="413" alt="Screenshot 2025-10-23 112100" src="https://github.com/user-attachments/assets/100fa490-525e-412c-969e-d8e5ce35fbdf" />
+<img width="1904" height="411" alt="Screenshot 2025-10-23 112147" src="https://github.com/user-attachments/assets/9c88ba61-514d-44be-96bf-26b010d1a21b" />
+<img width="1906" height="413" alt="Screenshot 2025-10-23 112207" src="https://github.com/user-attachments/assets/272fd46d-7ecd-4e10-84fa-57221412464d" />
+
 
 
 ## Overview
