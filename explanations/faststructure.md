@@ -2,7 +2,7 @@
 
 A complete pipeline for running fastStructure population genetic analysis and visualizing ancestry admixture results.
 
-
+<img width="1907" height="335" alt="Screenshot 2025-11-13 144235" src="https://github.com/user-attachments/assets/f6abea7a-343a-4fec-9e09-3bfcfd2edc7e" />
 <img width="1716" height="502" alt="Screenshot 2025-10-21 133821" src="https://github.com/user-attachments/assets/0b1b059c-d620-463f-910a-3238970b6210" />
 <img width="1662" height="513" alt="Screenshot 2025-10-21 133856" src="https://github.com/user-attachments/assets/32decaac-ef74-4fad-a00a-e7884cb6ac28" />
 <img width="1877" height="412" alt="image" src="https://github.com/user-attachments/assets/b986fe4e-61f7-493d-9b61-3a7f814ee05e" />
