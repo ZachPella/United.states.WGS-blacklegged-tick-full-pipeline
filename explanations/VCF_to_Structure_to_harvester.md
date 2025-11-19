@@ -150,7 +150,7 @@ python3 scripts/plot_county.py 2
 ### mainparams
 Core STRUCTURE parameters including:
 - **INFILE**: clean_structure_fixed.str
-- **NUMINDS**: 61 (number of individuals)
+- **NUMINDS**: 193 (number of individuals)
 - **NUMLOCI**: 299,218 (number of loci)
 - **BURNIN**: 50,000 (burn-in period)
 - **NUMREPS**: 200,000 (MCMC iterations)
@@ -177,7 +177,7 @@ PGDSpider conversion settings:
 ## Dataset Information
 
 **Current Dataset:** Tick genomic data (June 2025 cohort)
-- **Individuals:** 61 samples
+- **Individuals:** 193 samples
 - **Original SNPs:** ~299K loci
 - **Filtering:** MAF ≥ 0.01, missingness = 0%, MAC ≥ 2, biallelic only
 - **Final dataset:** LD-pruned SNP set
