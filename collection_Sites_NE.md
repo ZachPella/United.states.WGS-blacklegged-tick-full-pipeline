@@ -1,3 +1,4 @@
+<img width="2190" height="1282" alt="download" src="https://github.com/user-attachments/assets/01dd6fd6-21c5-4610-bee3-edd7f13f6749" />
 <img width="4770" height="2356" alt="nebraska_map_blue (1)" src="https://github.com/user-attachments/assets/7c800063-a450-4da7-ad89-d337cb0d0472" />
 <img width="4770" height="2356" alt="nebraska_county_map (3)" src="https://github.com/user-attachments/assets/c96d7293-006d-41dd-a71c-7ce3195f82f3" />
 <img width="4770" height="2356" alt="nebraska_map_grayscale (1)" src="https://github.com/user-attachments/assets/90ec3312-5528-4c35-aade-2f35829a7ea1" />
