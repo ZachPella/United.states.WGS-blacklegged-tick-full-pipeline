@@ -12,6 +12,7 @@ This repository contains a comprehensive 17-step bioinformatics pipeline for ana
 <img width="1907" height="335" alt="Screenshot 2025-11-13 144235" src="https://github.com/user-attachments/assets/b4905ade-aa87-405e-a28c-bbaed2b5d4e4" />
 <img width="957" height="764" alt="Screenshot 2025-10-30 100745" src="https://github.com/user-attachments/assets/4ff031a5-357d-4f97-b17d-33218361a5fa" />
 <img width="2190" height="1282" alt="download" src="https://github.com/user-attachments/assets/92e809c3-39d0-4be3-95cd-0d00551ff875" />
+<img width="1445" height="828" alt="analysis_flowchart_normal drawio (1)" src="https://github.com/user-attachments/assets/44092250-d6b3-45c4-ae11-589b460d3a58" />
 
 
 ## Pipeline Workflow
