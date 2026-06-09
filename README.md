@@ -96,6 +96,8 @@ This pipeline enables investigation of:
 │       ├── extract_metrics.py       # Model selection metrics
 │       ├── plot_faststructure.py    # Admixture visualization
 │       └── DAPC.R                   # DAPC analysis workflow
+│       └── run_admixture.sh         # Admixture analysis workflow
+
 ├── docs/
 │   ├── pipeline-documentation.md    # Comprehensive methodology guide
 │   ├── faststructure.md             # fastStructure analysis guide
