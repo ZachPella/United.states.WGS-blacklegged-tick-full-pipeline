@@ -6,14 +6,14 @@
 
 This repository contains a comprehensive 17-step bioinformatics pipeline for analyzing population structure and genetic diversity in blacklegged ticks (*Ixodes scapularis*) using whole-genome sequencing data across the United States. The pipeline processes tick samples from multiple states through quality control, variant calling, filtering, and population genetic analysis to reveal continental-scale population structure and evolutionary patterns.
 
-<img width="1382" height="989" alt="tick_pca_colored_by_NE_county" src="https://github.com/user-attachments/assets/a7f618e0-ae9a-4497-af83-90e5a31ac07f" />
-<img width="1377" height="989" alt="tick_pca_all_samples_NE_north_and_south_all_else_black_or_white" src="https://github.com/user-attachments/assets/25273d05-fe59-42de-bbf9-4d78ef688af8" />
-<img width="1377" height="989" alt="download" src="https://github.com/user-attachments/assets/b88e61a6-f5d8-43b9-abda-127c239288ed" />
-<img width="1907" height="335" alt="Screenshot 2025-11-13 144235" src="https://github.com/user-attachments/assets/b4905ade-aa87-405e-a28c-bbaed2b5d4e4" />
-<img width="957" height="764" alt="Screenshot 2025-10-30 100745" src="https://github.com/user-attachments/assets/4ff031a5-357d-4f97-b17d-33218361a5fa" />
-<img width="5970" height="3684" alt="ixodes_scapularis_distribution_map_wikipedia_centroids (1)" src="https://github.com/user-attachments/assets/f62a8dae-f87e-4b11-8062-e8a8a60c46a1" />
-<img width="1445" height="828" alt="analysis_flowchart_normal drawio (1)" src="https://github.com/user-attachments/assets/44092250-d6b3-45c4-ae11-589b460d3a58" />
-<img width="801" height="661" alt="478516907-f11c1b42-fd5a-41bf-b45a-118bb8a1a209" src="https://github.com/user-attachments/assets/823dadd0-ec12-48d0-b17c-6752b50e8310" />
+<img width="1377" height="989" alt="PCA_FINAL_SD_AND_BEI_BUT_no_downsampled png" src="https://github.com/user-attachments/assets/e8d41948-f43c-495e-bf8f-32718e13923f" />
+<img width="1445" height="830" alt="analysis_flowchart_thick drawio png" src="https://github.com/user-attachments/assets/8fcecbbd-3904-4b4e-b312-16a2705f9e2e" />
+<img width="3060" height="13233" alt="admixture_K2_by_state_horizontal" src="https://github.com/user-attachments/assets/b3620ff5-2aff-4f04-a0ec-a1c567520a21" />
+<img width="3060" height="13233" alt="admixture_K3_by_state_horizontal_downsampled" src="https://github.com/user-attachments/assets/9d682a0e-c7d0-4c50-8d49-8502bf54dd94" />
+<img width="3060" height="13233" alt="fastSTRUCTURE_K3_State_Horizontal" src="https://github.com/user-attachments/assets/02f2c991-01ac-4b3d-a877-d580703705ad" />
+[step5_DAPC_scatter_plot_ixodes_AIC.pdf](https://github.com/user-attachments/files/28761144/step5_DAPC_scatter_plot_ixodes_AIC.pdf)
+[step5b_DAPC_scatter_labeled_admixed.pdf](https://github.com/user-attachments/files/28761155/step5b_DAPC_scatter_labeled_admixed.pdf)
+
 
 
 ## Pipeline Workflow
