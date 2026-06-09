@@ -11,8 +11,12 @@ This repository contains a comprehensive 17-step bioinformatics pipeline for ana
 <img width="3060" height="13233" alt="admixture_K2_by_state_horizontal" src="https://github.com/user-attachments/assets/b3620ff5-2aff-4f04-a0ec-a1c567520a21" />
 <img width="3060" height="13233" alt="admixture_K3_by_state_horizontal_downsampled" src="https://github.com/user-attachments/assets/9d682a0e-c7d0-4c50-8d49-8502bf54dd94" />
 <img width="3060" height="13233" alt="fastSTRUCTURE_K3_State_Horizontal" src="https://github.com/user-attachments/assets/02f2c991-01ac-4b3d-a877-d580703705ad" />
-[step5_DAPC_scatter_plot_ixodes_AIC.pdf](https://github.com/user-attachments/files/28761144/step5_DAPC_scatter_plot_ixodes_AIC.pdf)
-[step5b_DAPC_scatter_labeled_admixed.pdf](https://github.com/user-attachments/files/28761155/step5b_DAPC_scatter_labeled_admixed.pdf)
+<img width="304" height="313" alt="image" src="https://github.com/user-attachments/assets/c56f5a38-1d2e-4318-9510-b6b9b64827ba" />
+<img width="667" height="488" alt="image" src="https://github.com/user-attachments/assets/b701ff23-9c25-4d51-9a11-59c108fcc5f4" />
+<img width="667" height="488" alt="image" src="https://github.com/user-attachments/assets/7d54d8ed-3ed5-40fb-b197-44e006f2ea08" />
+<img width="667" height="488" alt="image" src="https://github.com/user-attachments/assets/f0faf2bb-17ad-4345-9c23-6b1c7cbaab3c" />
+<img width="733" height="484" alt="image" src="https://github.com/user-attachments/assets/d2f515e7-5627-4469-b47d-66be1e1afb8f" />
+
 
 
 
